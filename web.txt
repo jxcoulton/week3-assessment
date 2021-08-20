@@ -1,0 +1,15 @@
+How does the internet work?
+
+    the internet works by connecting us all throught networks. data can be transfered between all things connected to it. we can
+request data from servers. the computers can all comunicate with eachother. internet protocol is required to keep all the computers 
+working together folowing the same regulations. when data is sent through the network it is split into small packets. the small packets are 
+faster and if something gets lost from a small packet rather then a big block of data its easy to replace. when your searching the 
+internet your just sending messages back and forth, requesting and recieving data.
+
+
+what happens when you click a link?
+
+    when you click on a link (short for hyperlink) on a webpage, you are requesting the computer load that page for you.
+there are relative and absolute link. relative links load a page relative to the current website, and absolute links are required for
+links that direct you out of the webpage you are already in. absolute links require the url contain the domain name since the current
+page has no reference to find that page within its own data.

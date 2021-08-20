@@ -8,7 +8,6 @@ const resSub = document.querySelector('#subs')
 
 const randBtn = document.querySelector('#random')
 
-const restrauntArr = [resHomestyle, resItalian, resCheeseSteak, resSub]
 
 
 const random = () => {

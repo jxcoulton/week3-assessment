@@ -24,7 +24,7 @@ a {
 	color: orange;
 }
 
-a:visited {
+a:hover {
 	color: crimson;
 }
 

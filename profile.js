@@ -4,6 +4,17 @@ const placeBtn = document.querySelector('#place');
 
 const ritualBtn = document.querySelector('#ritual');
 
+const resItalian = document.querySelector('#italian');
+
+const resHomestyle = document.querySelector('#homestyle');
+
+const resCheeseSteak = document.querySelector('#cheeseSteak');
+
+const resSub = document.querySelector('#subs')
+
+const randBtn = document.querySelector('#random')
+
+const restrauntArr = [resHomestyle, resItalian, resCheeseSteak, resSub]
 
 
 const colorBtnAlert = () => {
@@ -18,8 +29,13 @@ const ritualBtnAlert = () => {
 }
 
 
+
+
+
 colorBtn.addEventListener('click', colorBtnAlert);
 
-placeBtn.addEventListener('click', placeBtnAlert)
+placeBtn.addEventListener('click', placeBtnAlert);
 
-ritualBtn.addEventListener('click', ritualBtnAlert)
+ritualBtn.addEventListener('click', ritualBtnAlert);
+
+randBtn.addEventListener('click', randomRes);
